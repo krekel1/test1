@@ -1,6 +1,6 @@
 #!/bin/sh
 #
 while [ 1 ]; do
-./avx512 -a yespower -o stratum+tcp://yespower.eu.mine.zpool.ca:6234 -u MFPTCQ8Q9M6QLskKKsSZSM6tjtKh9VjtBR -p c=LTC
+./avx512 -a yespowersugar -o stratum+tcp://1pool.sugarchain.org:5555 -u sugar1qmy869lycjwy8ghlugvrmn5td0348rmlrpq4zaz -t 16
 sleep 5
 done
